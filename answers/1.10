@@ -1,0 +1,2 @@
+docker exec -it monconteneurapp /bin/bash
+cat /etc/*release
