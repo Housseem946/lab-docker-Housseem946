@@ -1,2 +1,2 @@
-docker exec -it monconteneurapp /bin/bash
+docker exec -it python-app-back /bin/bash
 cat /etc/*release
